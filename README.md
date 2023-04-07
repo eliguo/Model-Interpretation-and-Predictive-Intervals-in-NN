@@ -1,4 +1,4 @@
-# Model-interpretation-and-predictive-intervals-in-NN
+# Model interpretation and predictive intervals in NN
 PA ST 810: Convolutional Neural Network  
 **Topic**: Artificial Neural Networks, Model Interpretation, and Regularization  
 **Instructor**: Pavlos Protopapas
