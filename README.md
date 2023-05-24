@@ -1,4 +1,4 @@
-# Model interpretation and predictive intervals in NN
+# Model-Interpretation-and-Predictive-Intervals-in-NN
 **PACSPP - 401003**: Introduction to Neural Networks
 **Topic**: Artificial Neural Networks, Model Interpretation, and Regularization  
 **Instructor**: Pavlos Protopapas
